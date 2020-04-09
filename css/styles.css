@@ -4,6 +4,7 @@ img{
 }
 body{
     background-image: url("../img/el.png");
+    background-size: 100%;
     text-align: center;
-    text-decoration-color: white;
+    color: white;
 }
