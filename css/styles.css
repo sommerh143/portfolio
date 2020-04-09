@@ -1,8 +1,9 @@
-h1 {
-    text-align: center;
-}
-
 img{
     width: 75%;
     float: right;
+}
+body{
+    background-image: url("../img/el.png");
+    text-align: center;
+    text-decoration-color: white;
 }
