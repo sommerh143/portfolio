@@ -12,7 +12,7 @@ This is my portfolio all about me. is shows some of the programs i have worked o
  
 * go to github pages
 * clone or download link
-* open up the terminal and type " ___________"
+* open up the terminal and type "https://github.com/sommerh143/portfolio.git"
 * then cd to the file called wk3-project"
 * when in that folder type open code .
 * then drag index.html to the web browser you are using.
@@ -22,7 +22,7 @@ This is my portfolio all about me. is shows some of the programs i have worked o
 no known bugs.
  
 ## GH Pages Link
-______
+https://github.com/sommerh143/portfolio
  
 ## Support and contact details
  
