@@ -22,7 +22,7 @@ This is my portfolio all about me. is shows some of the programs i have worked o
 no known bugs.
  
 ## GH Pages Link
-https://github.com/sommerh143/portfolio
+https://sommerh143.github.io/portfolio/
  
 ## Support and contact details
  
