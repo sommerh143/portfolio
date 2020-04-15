@@ -3,6 +3,10 @@ img{
     float: right;
 }
 body{
+
+    margin: 12px;
+    border: 2px solid black;
+    padding: 4px;
     background-image: url("../img/el.png");
     background-size: 100%;
     text-align: center;
